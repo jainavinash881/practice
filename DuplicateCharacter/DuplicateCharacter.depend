@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545053786 source:d:\new folder\duplicatecharacter\main.cpp
+	<iostream>
+	<cstdio>
+
